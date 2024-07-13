@@ -1,3 +1,5 @@
+//raw code just to show working of the script
+
 let inputInside = document.querySelector("#inputArea");
 let unOrd = document.querySelector("ul")
 let button = document.querySelector("#add")
